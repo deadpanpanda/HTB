@@ -1,0 +1,7 @@
+# Nmap 7.94SVN scan initiated Wed Oct 30 18:23:47 2024 as: /usr/lib/nmap/nmap --privileged -sU -oN nmap_su.txt 10.10.10.215
+Nmap scan report for 10.10.10.215
+Host is up (0.033s latency).
+All 1000 scanned ports on 10.10.10.215 are in ignored states.
+Not shown: 956 closed udp ports (port-unreach), 44 open|filtered udp ports (no-response)
+
+# Nmap done at Wed Oct 30 18:41:06 2024 -- 1 IP address (1 host up) scanned in 1038.70 seconds
